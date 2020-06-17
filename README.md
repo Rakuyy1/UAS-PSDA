@@ -34,3 +34,6 @@ Menghapus data yang telah dimasukkan
 
 ## Nama dan NIM
 Ainurrahma Kurnia Santoso (1910512032)
+
+## Email
+ainurrahma@ymail.com
