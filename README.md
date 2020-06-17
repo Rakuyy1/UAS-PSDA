@@ -32,3 +32,5 @@ Mengurutkan BST secara inOrder, preOrder dan postOrder
 Mencari data yang ada
 Menghapus data yang telah dimasukkan
 
+## Nama dan NIM
+Ainurrahma Kurnia Santoso (1910512032)
